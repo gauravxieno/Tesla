@@ -1,9 +1,7 @@
 import React, {useState} from 'react'
 import styled from 'styled-components'
 import CloseIcon from '@mui/icons-material/Close';
-/*import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
-import Home from './Home'
-import Models from './pages/Models'*/
+
 
 export default function Header(){
 
